@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Caroylina
 - 👀 I’m interested in software Dvelopment
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on my page
+- 💞️ I’m looking to collaborate on many page
 - 📫 How to reach me ...
 
 <!---
